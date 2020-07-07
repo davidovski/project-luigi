@@ -1,2 +1,2 @@
-# OrangePeel
-A java discord bot
+# Luigi
+A chatbot for discord that displays its messages in a ouiji board format
